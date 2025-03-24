@@ -61,6 +61,26 @@ every data project I undertake.
 
 ---
 
+---
+### SERVICES OFFERED
+
+#### What I Offer
+
+##### I provide a comprehensive range of data analysis services
+
+##### Descriptive and Predictive Analysis
+Uncovering patterns and predicting future trends using
+statistical methods and machine learning.
+
+##### Data Visualization
+Creating clear and insightful visualizations to communicate
+findings effectively.
+
+##### Business Intelligence
+Developing dashboards and reports that provide real-time insights
+
+---
+
 
 # lets Connect
 
